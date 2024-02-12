@@ -3,6 +3,9 @@
 
 - 🌱 I’m currently learning **Flutter, Swift**
 
+- 📫 How to reach me **yogeshmalkani28@gmail.com**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/yogesh_malkani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogesh_malkani" height="30" width="40" /></a>
